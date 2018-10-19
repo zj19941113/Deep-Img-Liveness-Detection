@@ -33,7 +33,8 @@ pretotal=1603,_ary=0.069963,101.raw是人脸
 ## 补充
 
 本算法检测类型范围：张照片攻击，视频攻击  
-C语言版本：  
+核心算法：RANSAC随机一致性采样  
+C语言版本：https://github.com/zj19941113/Face-Liveness_detection  
 
 ## 显示深度图
 
